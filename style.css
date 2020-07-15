@@ -28,7 +28,6 @@ section h2 {
   margin-bottom: 20px;
 }
 
-/********** MAIN INFO **********/
 #main-info {
   color: white;
   flex-wrap: nowrap;
@@ -53,9 +52,7 @@ section h2 {
   margin: 0 0 25px 25px;
   float: right;
 }
-/********** /MAIN INFO **********/
 
-/********** CONTACT INFO **********/
 #contact-info > div {
   display: flex;
   justify-content: flex-start;
@@ -84,9 +81,7 @@ section h2 {
 #contact-info ul li i {
   margin-right: 10px;
 }
-/********** /CONTACT INFO **********/
 
-/********** EDUCATION ***********/
 #professional {
   background-color: #efefef;
 }
@@ -94,15 +89,11 @@ section h2 {
 #professional > div {
   margin-top : 25px;
 }
-/********** /EDUCATION ***********/
 
-/********** EDUCATION ***********/
 #education > div {
   margin-top : 25px;
 }
-/********** /EDUCATION ***********/
 
-/********** SKILLS ***********/
 #skills {
   background-color: #efefef;
 }
@@ -121,11 +112,3 @@ section h2 {
   color: #ffffff;
   border: 2px solid #2DC5FA;
 }
-/********** SKILLS ***********/
-
-/********** CREDITS **********/
-footer {
-  text-align: center;
-  padding: 10px;
-}
-/********** /CREDITS **********/
